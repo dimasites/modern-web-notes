@@ -16,6 +16,12 @@ Waterfall showing how a separate GET-request for hinted resource has been sent:
 
 (screenshot from WebPageTest)
 
+## #1.3. HTTP2 NetLog 103 with Early Hints
+
+![chrome-net-export-log-json-NetLog-Viewer](https://github.com/dimasites/modern-web-notes/assets/5102558/e23dc237-0396-43e3-94e9-d826b27c2595)
+
+(screenshot from chrome://net-export/ → HTTP/2 → SESSION and visualized by chromium netlog viewer)
+
 
 ## #2.1. HTTP2 Server Push demo waterfall:
 ![2023-08-13_18-45-57](https://github.com/dimasites/modern-web-notes/assets/5102558/981a6955-c5e6-4ae0-a3be-8d2ac11533d0)
